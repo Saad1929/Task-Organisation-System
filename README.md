@@ -10,4 +10,6 @@
 - Personal VueJS Project to create a **Front-End Task Organistaion Application**.
 - Personal Project for **Kumon International Tuition Centre** to assist employees.
 - Project is now in **full** use within one branch.
-
+- 
+<a name="aims"></a>
+## 🎯Aims and Motivation
