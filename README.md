@@ -33,3 +33,7 @@
 
 <a name="design"></a>
 ## ✏️Design
+### Front-end Technology Stack
+- **HTML** was utilised for **constructing templates and laying the foundation of the web application**, through an index page.
+- **CSS** was employed to **enhance the website's visual appeal**, giving it a **polished and modern appearance** that is both **attractive and professional**.
+- **JavaScript** was used to **elevate** the front-end of this web application, **incorporating modern animations**. This was done to **enhance the user experience** and create a more **engaging, modern and dynamic application**.
