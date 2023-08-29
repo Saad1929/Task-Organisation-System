@@ -30,3 +30,6 @@
 - **VSCode** was used as an **Integrated Development Environment (IDE)** for this project.
 - **Git** was used as a **Version Control System (VCS)** to **maintain a history of the software project**.
 - **GitHub** was used to **host and maintain history of the project**.
+
+<a name="design"></a>
+## ✏️Design
