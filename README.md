@@ -15,3 +15,6 @@
 - The **primary goal** of this project entailed the development of a comprehensive **Front-End Application**, meticulously crafted during my **own personal time**, to assist the employees of Kumon with their daily duties. 
 - **Motivated** by an **unrelenting passion for knowledge and personal growth**, I undertook the creation of a **sophisticated Front-End Application in order to expand my expertise in Front-end technologies**. The project has **garnered attention from one branch of Kumon International Tuition Centre**, who are **now fully using my VueJS application** within their branch.
 - I provided **comprehensive coaching sessions** to familiarise the Kumon staff with the project, ensuring its smooth utilisation and maximising its benefits for the center.
+
+<a name="tech"></a>
+## ⚙️Technologies, Requirements and Software Tools
