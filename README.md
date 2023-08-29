@@ -38,3 +38,8 @@
 - **JavaScript** was used to **elevate** the front-end of this web application, **incorporating modern animations**. This was done to **enhance the user experience** and create a more **engaging, modern and dynamic application**.
 - **VueJS** was employed to craft a **front-end task organisation system** that boasts **responsiveness, modernity, and user-friendliness at its core**.
 - I opted for VueJS due to its **component-based architecture, remarkable flexibility, exceptional responsiveness, and a seamless migration path** that ensures ease of use.
+
+### VueJS Summarisation Diagram
+![vueDiagram](https://github.com/Saad1929/Task-Organisation-System/assets/108022733/3b0d023f-d42f-4157-b065-a832c287ab4c)
+
+
