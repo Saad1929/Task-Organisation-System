@@ -13,3 +13,5 @@
 - 
 <a name="aims"></a>
 ## 🎯Aims and Motivation
+- - The **primary goal** of this project entailed the development of a comprehensive **Front-End Application**, meticulously crafted during my **own personal time**, to assist the employees of Kumon with their daily duties.
+  - 
