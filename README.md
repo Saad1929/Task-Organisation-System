@@ -19,3 +19,9 @@
 <a name="tech"></a>
 ## ⚙️Technologies, Requirements and Software Tools
 ### Programming and Scripting Languages
+- VueJS
+- JavaScript
+- HTML
+- CSS
+- XML
+- JSON
