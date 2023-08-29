@@ -18,3 +18,4 @@
 
 <a name="tech"></a>
 ## ⚙️Technologies, Requirements and Software Tools
+### Programming and Scripting Languages
