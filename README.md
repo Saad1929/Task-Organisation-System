@@ -7,8 +7,9 @@
 
 <a name="summary"></a>
 ## Brief Summary
-- Personal **VueJS Project** to create a **Front-End Task Organistaion Application**.
-- Personal Project for **Kumon International Tuition Centre** to assist employees.
+- Personal Group **VueJS Project** to create a **Front-End Task Organistaion Application**.
+- **Agile Methodology** followed with **Pair Programming** alongside 3 other developers.
+- The project was **planned collaboratively** and **Pair Programmed** with the **involvement of 3 other developers**, emphasising **teamwork** in software design and development.
 - Project is now in **full** use within one branch.
 <a name="aims"></a>
 ## 🎯Aims and Motivation
